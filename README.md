@@ -5,8 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedmandur](https://github.com/ahmedmandur)
 
-- 🌱 I’m currently learning **Flutter, and Dart**
-
+- 🌱 I’m currently learning **nodeJs**
+ 
 - 💬 Ask me about **.NET, Javascript, Jquery, HTML, and CSS**
 
 - 📫 How to reach me **ahmedmandur@gmail.com**
